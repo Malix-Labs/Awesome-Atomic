@@ -1,6 +1,6 @@
 # [Awesome Atomic](https://github.com/Malix-off/awesome_atomic) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome Atomic Illustration](https://img.freepik.com/premium-photo/3d-illustration-atom-with-atom-computer-circuit-board-background_779834-6339.jpg)](https://images.app.goo.gl/S1xCGtUmMfXGr5N96)
+![Awesome Atomic Illustration](https://img.freepik.com/premium-photo/3d-illustration-atom-with-atom-computer-circuit-board-background_779834-6339.jpg)
 
 An awesome curated knowledge-base about atomic systems
 
