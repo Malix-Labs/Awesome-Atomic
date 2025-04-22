@@ -10,6 +10,8 @@ These should be enough to get you started:
 
 - [“Immutable” → reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/) - Colin Walters
 - [Immutable Operating Systems: A Survey](https://www.researchgate.net/publication/370528248_Immutable_Operating_Systems_A_Survey) - Sebastian Böhm and Guido Wirtz, University of Bamberg, Germany - A short scientific publication that conceptualizes, defines, and outlines use cases and limitations of Immutable Operating Systems.
+- Why Order Matters: Turing Equivalence in Automated Systems Administration](https://www.usenix.org/legacy/events/lisa02/tech/full_papers/traugott/traugott_html/) - My personal all-time favorite tech whitepaper about operating systems.  
+	 You could take imperative configurations tools (Containerfiles/Dockerfiles, Ansible, …) as example for convergent system configuration tools, while declarative configurations tools (Nix, Guix) would be examples of Convergent system configuration tools
 
 ## Talks and Videos
 
