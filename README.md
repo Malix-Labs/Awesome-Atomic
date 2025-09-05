@@ -48,6 +48,7 @@ The Future is Now™, try one of these today!
 		- [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/) - An atomic-based Fedora based on KDE Plasma desktop enviroment
 		- [Fedora Sway Atomic](https://fedoraproject.org/atomic-desktops/sway) - An atomic-based Fedora based on the Sway tiling window manager
 		- [Fedora Budgie Atomic](https://fedoraproject.org/atomic-desktops/budgie) - An atomic-based Fedora based on Budgie desktop environment
+		- [Fedora COSMIC Atomic](https://fedoraproject.org/atomic-desktops/cosmic/) - An atomic-based Fedora based on System76's COSMIC desktop environment
 		- [Fedora CoreOS](https://fedoraproject.org/coreos/) - An atomic-based Fedora focused on servers
 	- Related Projects
 		- [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
