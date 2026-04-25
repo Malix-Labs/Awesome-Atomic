@@ -56,8 +56,8 @@ The Future is Now™, try one of these today!
 			- [Bluefin](https://projectbluefin.io/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue)
 			- [Aurora](https://getaurora.dev/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/)
 			- [uCore](https://projectucore.io/) - An Universal Blue OCI image focused on server use, based on [Fedora CoreOS](https://fedoraproject.org/coreos/)
-		- Independent Fedora Atomic Distributions - These projects leverage Fedora’s OCI/bootc technology but are entirely independent of Universal Blue and have unique architectural philosophies.
-			- [Origami Linux](https://origami.wf/) - An opinionated, aesthetics-focused distribution featuring the COSMIC desktop and also powered by the **CachyOS kernel**. Designed as a "container-first" developer environment, it explicitly replaces standard legacy shell utilities with blazing-fast Rust alternatives (like `eza`, `bat`, and `ripgrep`) out of the box.
+		- Independent Fedora Atomic Distributions - These projects leverage Fedora’s OCI/bootc technology but are entirely independent of Universal Blue and have unique architectural philosophies
+			- [Origami Linux](https://origami.wf/) - An opinionated and aesthetics-focused distribution featuring the COSMIC desktop, the [**CachyOS kernel**](https://wiki.cachyos.org/features/kernel/), a “container-first” developer environment, and replacing legacy shell utilities with modern alternatives (i.e. `eza`, `bat`, `ripgrep`, …)
 - openSUSE Atomic
 	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 	- [openSUSE Aeon](https://aeondesktop.org) - An atomic variant of openSUSE with the GNOME desktop environment, featuring containers with Distrobox.
