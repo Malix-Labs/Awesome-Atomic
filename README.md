@@ -59,6 +59,9 @@ The Future is Now™, try one of these today!
 		- Community & Downstream OCI Projects - These projects are built using Universal Blue infrastructure or base images and utilize BlueBuild to provide specialized versions of the uBlue stack.
 			- [SecureBlue](https://github.com/secureblue/secureblue) - A security-hardened project that adds kernel hardening, a hardened memory allocator (from GrapheneOS), and reduced attack surfaces to the Fedora Atomic/uBlue base.
 			- [WayBlue](https://github.com/wayblueorg/wayblue) - A community-driven collection of images providing lean, minimally-opinionated Wayland window managers (Hyprland, Sway, River, Niri) built on the uBlue framework.
+		- Independent Fedora Atomic Distributions - These projects leverage Fedora’s OCI/bootc technology but are entirely independent of Universal Blue and have unique architectural philosophies.
+			- [RakuOS](https://github.com/RakuOS) - A highly active "Hybrid Atomic" distribution. It utilizes the performance-optimized **CachyOS kernel** and SCX schedulers. Unlike standard atomic distros, it features a unique persistent overlay that allows users to instantly install native packages via `dnf` without relying on slow `rpm-ostree` layering. Available in KDE, GNOME, and COSMIC.
+			- [Origami Linux](https://origami.wf/) - An opinionated, aesthetics-focused distribution featuring the COSMIC desktop and also powered by the **CachyOS kernel**. Designed as a "container-first" developer environment, it explicitly replaces standard legacy shell utilities with blazing-fast Rust alternatives (like `eza`, `bat`, and `ripgrep`) out of the box.
 - openSUSE Atomic
 	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 	- [openSUSE Aeon](https://aeondesktop.org) - An atomic variant of openSUSE with the GNOME desktop environment, featuring containers with Distrobox.
