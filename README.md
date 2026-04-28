@@ -59,6 +59,7 @@ The Future is Now™, try one of these today!
 		- Community & Downstream OCI Projects - These projects are built using Universal Blue infrastructure or base images and utilize BlueBuild to provide specialized versions of the uBlue stack
 			- [SecureBlue](https://github.com/secureblue/secureblue) - A security-hardened project that adds kernel hardening, a hardened memory allocator (from GrapheneOS), and reduced attack surfaces to the Fedora Atomic/uBlue base
 			- [WayBlue](https://github.com/wayblueorg/wayblue) - A community-driven collection of images providing lean, minimally-opinionated Wayland compositors (Hyprland, Sway, River, Niri, …) built on the uBlue framework
+			- [Origami Linux](https://origami.wf/) - A performance-oriented Fedora Atomic bootable image built using [BlueBuild](https://blue-build.org/), featuring the COSMIC desktop environment, [CachyOS kernel](https://wiki.cachyos.org/features/kernel/), and replacing legacy shell utilities with modern alternatives (i.e. `eza`, `bat`, `sudo-rs`, …) _note: investigating [moving to a pure bootc architecture](https://discord.com/channels/1434166231274885313/1446099161240830055/1497938764700455053) (with CentOS Stream or Arch as a base)_
 - openSUSE Atomic
 	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 	- [openSUSE Aeon](https://aeondesktop.org) - An atomic variant of openSUSE with the GNOME desktop environment, featuring containers with Distrobox.
