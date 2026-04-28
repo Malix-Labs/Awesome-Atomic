@@ -60,7 +60,7 @@ The Future is Now™, try one of these today!
 			- [SecureBlue](https://github.com/secureblue/secureblue) - A security-hardened project that adds kernel hardening, a hardened memory allocator (from GrapheneOS), and reduced attack surfaces to the Fedora Atomic/uBlue base
 			- [WayBlue](https://github.com/wayblueorg/wayblue) - A community-driven collection of images providing lean, minimally-opinionated Wayland compositors (Hyprland, Sway, River, Niri, …) built on the uBlue framework
 			- [Origami Linux](https://origami.wf/) - A performance-oriented Fedora Atomic bootable image built using [BlueBuild](https://blue-build.org/), featuring the COSMIC desktop environment and [CachyOS kernel](https://wiki.cachyos.org/features/kernel/), focusing on replacing legacy shell utilities with modern Rust-based alternatives (i.e. `eza`, `bat`, `sudo-rs`, …). _note: investigating moving to a pure bootc architecture (with CentOS Stream or Arch as a base)_
- - openSUSE Atomic
+- openSUSE Atomic
 	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 	- [openSUSE Aeon](https://aeondesktop.org) - An atomic variant of openSUSE with the GNOME desktop environment, featuring containers with Distrobox.
 	- [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - An atomic variant of openSUSE with the KDE Plasma desktop environment, featuring containers with Distrobox.
