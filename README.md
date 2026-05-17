@@ -117,7 +117,7 @@ Most of us will not use these tools directly, but useful for developers:
 	- [apt2ostree](https://github.com/stb-tester/apt2ostree) - apt2ostree is used for building Debian/Ubuntu based ostree images. It performs the same task as debootstrap/multistrap but the output is an ostree tree rather than a rootfs in a directory.
 - [Image Builder - osbuild](https://www.osbuild.org/) - Build Infrastructure for Operating Systems
 - [ABRoot](https://github.com/Vanilla-OS/ABRoot) - A utility which provides full immutability and atomicity to a Linux system, by transacting between two root filesystems. Updates are performed using OCI images, to ensure that the system is always in a consistent state.
-- [BootC](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images. (Experimental)
+- [BootC](https://github.com/containers/bootc) - Transactional, in-place operating system updates using OCI/Docker container images.
 - [bootupd](https://github.com/coreos/bootupd) - Distribution-independent updates for bootloaders.
 - [Elemental Toolkit](https://rancher.github.io/elemental-toolkit/) - A toolkit which allows container images to be bootable in VMs, baremetals, embedded devices, and much more. Elemental and derivatives share a common feature set, can be upgraded with a A/B mechanism, and upgrades are delivered with standard container registries.
 - [GoldBoot](https://github.com/fossable/goldboot) - a command-line utility that builds machine images for both servers and workstations alike.
