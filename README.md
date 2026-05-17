@@ -148,12 +148,6 @@ If you're automating the config on systems like this please PR your config to sh
 - [Sodalite: A Pantheon Experience for Silverblue](https://github.com/electricduck/sodalite)
 - [silvernobara](https://github.com/VinnyVynce/silvernobara) - Fedora Silverblue with Project Nobara enhancements
 
-## Desktop Tours
-
-Here are some people walking through their setups:
-
-- [Jorge Castro's Desktop](https://www.youtube.com/watch?v=PM5exNztbXE)
-
 ## Discussion
 
 - Reddit:
