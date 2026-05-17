@@ -108,7 +108,7 @@ Things that are the building blocks for all the stuff we're talking about here.
 	- [Pods](https://github.com/marhkb/pods) - a podman desktop application (formely known as Symfony)
 - [Flatpak](https://flatpak.org/) - a utility for software deployment and package management for Linux. It is advertised as offering a sandbox environment in which users can run application software in isolation from the rest of the system.
 
-## Lower level tools
+## Lower Level Tools
 
 Most of us will not use these tools directly, but useful for developers:
 
