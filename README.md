@@ -64,7 +64,6 @@ The Future is Now™, try one of these today!
 	- [openSUSE MicroOS](https://microos.opensuse.org/) - An atomic variant of openSUSE for servers
 	- [openSUSE Aeon](https://aeondesktop.org) - An atomic variant of openSUSE with the GNOME desktop environment, featuring containers with Distrobox.
 	- [openSUSE Kalpa](https://en.opensuse.org/Portal:Kalpa) - An atomic variant of openSUSE with the KDE Plasma desktop environment, featuring containers with Distrobox.
-- [GNOME OS](https://os.gnome.org/) - The official bleeding-edge development and testing distribution (not recommended for daily usage) of the GNOME project, only shipping GNOME and flatpaks without any other package manager
 - [SteamOS](https://store.steampowered.com/steamos) - The official Arch-based atomic linux distribution by Valve
 - [NixOS](https://nixos.org/) - a Linux distribution based on Nix package manager
 	- [awesome-nix](https://github.com/nix-community/awesome-nix) - A curated list of the best resources in the Nix community
@@ -76,6 +75,7 @@ The Future is Now™, try one of these today!
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
 	- [ChromeOS (Flex)](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure operating system by Google. _flex is the non-chromebook version_
 - [VanillaOS](https://vanillaos.org/) - Vanilla OS is a Debian Sid Linux-based Point Release distribution that receives updates at the right time without sacrificing security and functionality.
+- [GNOME OS](https://os.gnome.org/) - The official bleeding-edge development and testing distribution (not recommended for daily usage) of the GNOME project, only shipping GNOME and flatpaks without any other package manager
 - [Nitrux](https://nxos.org/) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
