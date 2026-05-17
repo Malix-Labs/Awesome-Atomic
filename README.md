@@ -90,7 +90,7 @@ Someone smarter please make a better definition.
 
 - [Toolbx](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux
 	- [Toolbx Tuner](https://github.com/13hannes11/toolbx-tuner) - Toolbx Tuner is a tool to improve the experience with toolbx.
-	- [Toolbx Images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx  (Check these out if you need other distros outside the default Fedora ones)
+	- [Toolbx Images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx (Check these out if you need other distros outside the default Fedora ones)
 	- [toolbox-images](https://github.com/akdev1l/toolbox-images) - a collection of container images for usage with the toolbox command. This is an attempt at providing more feature parity with regard to toolboxes for distributions other than Fedora.
 	- [Toolbox GUI](https://github.com/Dvlv/toolbox-gui) - A graphical interface for interacting with Toolbox, written with GTK3 and Python
 - [Distrobox](https://github.com/89luca89/distrobox) - Tool for containerized command line environments on Linux, distribution agnostic, supports a wide variety of containers , works both with podman and docker - This is a great tool to start with on your existing distro to learn working with day-to-day container workflows.
@@ -131,7 +131,7 @@ aka. duct tape.
 
 - [Integrate VSCode and Distrobox](https://distrobox.privatedns.org/posts/integrate_vscode_distrobox.html)
 - [silverblue-nix](https://gitlab.com/ahayzen/silverblue-nix) - Andrew Hayzen's steps for getting nix working on Fedora Silverblue.
-- [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) -  Toolbox Visual Studio Code integration
+- [Toolbox Visual Studio Code Integration](https://github.com/owtaylor/toolbox-vscode) - Toolbox Visual Studio Code integration
 
 ## Configs from the Community
 
