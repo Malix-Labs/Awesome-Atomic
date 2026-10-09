@@ -81,6 +81,7 @@ The Future is Now™, try one of these today!
 - [Kairos](https://github.com/kairos-io/kairos) - The immutable Linux meta-distribution for edge Kubernetes.
 - [ChimeraOS](https://chimeraos.org/) - A Steam Big Picture based couch gaming OS utilizing [frzr](https://github.com/ChimeraOS/frzr)
 - [Arkane Linux](https://arkanelinux.org/) - Arch based immutable distro which uses [Arkdep](https://github.com/arkanelinux/arkdep)
+- [AstrOS](https://astros-linux.org/) - An arch-based image-based immutable distribution shipping COSMIC, using [systemd-sysupdate](https://www.freedesktop.org/software/systemd/man/latest/systemd-sysupdate.html) for signed A/B updates; Currently in Beta
 
 ## Tools
 
